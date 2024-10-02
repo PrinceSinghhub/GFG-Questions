@@ -1,0 +1,4 @@
+56 <class 'int'>
+fdg fgdf <class 'str'>
+3.43534 <class 'float'>
+True <class 'bool'>
